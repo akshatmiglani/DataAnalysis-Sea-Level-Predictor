@@ -33,4 +33,4 @@ Global Average Absolute Sea Level Change, 1880-2014 from the US Environmental Pr
 
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=akshatmiglani/DataAnalysis-Sea-Level-Predictor)
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/akshatmiglani/DataAnalysis-Sea-Level-Predictor)
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url = https://github.com/akshatmiglani/DataAnalysis-Sea-Level-Predictor/)
